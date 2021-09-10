@@ -1,7 +1,7 @@
 close all;
 clear; clc; 
 
-%% org
+% org
 m=1:1:200;
 org = m+50*cos(m*2*pi/10) + 25*sin(m*2*pi/5);
 
@@ -12,7 +12,8 @@ plot( dct_org);hold on;
 dct_samp = dct(samp);
 plot(scale_factor *dct_samp);grid on;
 legend('org', 'dct');
-%% sampled
+
+% sampled
 n=0:2:200;
 samp = n+50*cos(n*2*pi/10) + 25*sin(n*2*pi/5);
 % plot(n, samp)
