@@ -23,3 +23,8 @@ x = [1, 2, 2, 3, 2, 2, 2, 1, 2, 1, 1, 1, 2, 8, 9, 6, 3, 1, 1, 2, 1, 1, 1, 2, 1, 
 ```
 ## Test for a sequence X
 ![image](https://user-images.githubusercontent.com/71545160/119292435-5b1c7600-bc8b-11eb-9229-f4c3e1913244.png)
+
+# DCT
+Please refer to the site below.
+
+https://jaehoon9201.github.io/data-processing/DFT/
