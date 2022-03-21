@@ -1,6 +1,4 @@
 
-```matlab
-
 % reference : https://www.youtube.com/watch?v=rt5mMEmZHfs
 clear; close all; clc;
 
@@ -49,7 +47,4 @@ plot(t, f, t, reconstructed_sig);
 figure(4)
 plot(f_dct, 'b'), hold on, grid on;
 plot(x, 'r');
-```
-![image](https://user-images.githubusercontent.com/71545160/159208370-6307e358-c8d2-49ca-b238-ad4d2dc2cf94.png)
-![image](https://user-images.githubusercontent.com/71545160/159208376-9c871f9f-2634-44e6-8cfb-ece101185ce0.png)
 
