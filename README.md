@@ -39,9 +39,8 @@ https://jaehoon9201.github.io/data-processing/Compressive_sensing/
 
 ![image](https://user-images.githubusercontent.com/71545160/165463023-a207860f-421e-46f8-a009-d9ff1bb465e4.png)
 
-# FFT/runFFT.m
+# THD/calcTHD.m
 ![image](https://user-images.githubusercontent.com/71545160/165463109-aa48d273-0a07-4c0f-b6dd-2294b9a54dd5.png)
-
 
 ![image](https://user-images.githubusercontent.com/71545160/165463066-e654e374-12d0-45e1-9bb2-2e47b17b3ed4.png)
 
