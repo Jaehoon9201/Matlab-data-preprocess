@@ -116,3 +116,4 @@ ratio2rd = Magnitude(1,3)/Magnitude(1,2) *100
 
 ![image](https://user-images.githubusercontent.com/71545160/165463066-e654e374-12d0-45e1-9bb2-2e47b17b3ed4.png)
 
+img[alt=[drawing](https://user-images.githubusercontent.com/71545160/165463066-e654e374-12d0-45e1-9bb2-2e47b17b3ed4.png)] { width: 200px; }
