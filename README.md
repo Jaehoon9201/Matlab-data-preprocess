@@ -122,3 +122,20 @@ ratio2rd = Magnitude(1,3)/Magnitude(1,2) *100
 <img src="https://user-images.githubusercontent.com/71545160/165463109-aa48d273-0a07-4c0f-b6dd-2294b9a54dd5.png" alt="drawing" width="300"/>
 
 <img src="https://user-images.githubusercontent.com/71545160/165463066-e654e374-12d0-45e1-9bb2-2e47b17b3ed4.png" alt="drawing" width="300"/>
+
+<br>
+<br>
+<br>
+<br>
+
+-------------------------
+
+# Kalman Filter ex
+
+![image](https://user-images.githubusercontent.com/71545160/172328647-5540d65c-c25b-481a-93da-79c5f3ccd0c9.png)
+
+![image](https://user-images.githubusercontent.com/71545160/172328668-120f6a53-818a-4dee-9c78-8574bb476e44.png)
+
+![image](https://user-images.githubusercontent.com/71545160/172328683-e6506fea-a2d2-4570-86cf-e0fb46828a1b.png)
+
+
