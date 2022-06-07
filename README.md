@@ -132,10 +132,16 @@ ratio2rd = Magnitude(1,3)/Magnitude(1,2) *100
 
 # Kalman Filter ex
 
-![image](https://user-images.githubusercontent.com/71545160/172328647-5540d65c-c25b-481a-93da-79c5f3ccd0c9.png)
+## Basic_1x1 Results (sensing filter)
 
-![image](https://user-images.githubusercontent.com/71545160/172328668-120f6a53-818a-4dee-9c78-8574bb476e44.png)
+<img src="https://user-images.githubusercontent.com/71545160/172328647-5540d65c-c25b-481a-93da-79c5f3ccd0c9.png" alt="drawing" width="300"/>
 
-![image](https://user-images.githubusercontent.com/71545160/172328683-e6506fea-a2d2-4570-86cf-e0fb46828a1b.png)
+## Basic_1x1_w_K_P (sensing filter)
+
+<img src="https://user-images.githubusercontent.com/71545160/172328668-120f6a53-818a-4dee-9c78-8574bb476e44.png" alt="drawing" width="300"/>
+
+## Basic_2x1 (sensing filter & state estimator)
+
+<img src="https://user-images.githubusercontent.com/71545160/172328683-e6506fea-a2d2-4570-86cf-e0fb46828a1b.png" alt="drawing" width="300"/>
 
 
