@@ -27,7 +27,7 @@ D = dct(eye(n,n));
 A = D(idx,:); % setup A-Matrix
 
 %% Method 1
-% x = pinv(A)*fcom';  % =Mean square error(?)
+% x = pinv(A)*fcom';  % =Mean square error
 
 
 %% Method 2
@@ -39,7 +39,7 @@ cvx_begin;
 cvx_end
 
 %% plot
-reconstructed_sig = dct(x);
+reconstructed_sig = dct(x);  % It's probably wrong. i guess that it should be 'idct'
 
 figure(3)
 plot(t, f, t, reconstructed_sig);
