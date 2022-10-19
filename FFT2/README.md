@@ -1,3 +1,7 @@
+## Caution
+ * 'positiveFFT.m' should be modified ! 
+ * It didn't divide last value by 2.
+ * 
 ## Matlab-FFT
 This code is for the FFT of below waveform(**Wave_example.csv**).
 
