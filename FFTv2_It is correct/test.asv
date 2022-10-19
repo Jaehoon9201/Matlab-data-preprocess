@@ -1,0 +1,42 @@
+clear all;clc;close all; 
+
+Fs = 1000;            % Sampling frequency 
+T = 1/Fs;             % Sampling period 
+L = 10000;            % Length of signal 
+t = 0:T:10-T;         % Time vector 
+
+S = 0.7*sin(2*pi*10*t) + sin(2*pi*150*t) +0.5*randn(size(t))+1;
+X = S; 
+
+plot(1000*t(1:500),X(1:500)) ;
+xlabel('t (ms)') 
+ylabel('X(t)')
+
+Y = fft(X); 
+
+P2 = abs(Y/L); 
+P1 = P2(1:L/2+1); 
+P1(2:end-1) = 2*P1(2:end-1); 
+P1(end-1)
+P1(end)
+f = Fs*(0:(L/2))/L; 
+figure(1)
+plot(f,P1) 
+xlabel('f (Hz)') 
+ylabel('Magnitude')
+%%
+n = L; 
+Y = fft(X,n); 
+
+P = 2*abs(Y/n); 
+P(1) = P(1)/2;
+P(end) = P(end)/2;
+P1(end-1)
+P(end)
+
+f = Fs*(0:(n/2))/n ;
+P1new = P(1:n/2+1);
+figure(2) 
+plot(f,P1new) 
+xlabel('f (Hz)') 
+ylabel('Magnitude') 
