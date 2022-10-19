@@ -144,4 +144,17 @@ ratio2rd = Magnitude(1,3)/Magnitude(1,2) *100
 
 <img src="https://user-images.githubusercontent.com/71545160/172328683-e6506fea-a2d2-4570-86cf-e0fb46828a1b.png" alt="drawing" width="300"/>
 
+<br>
+<br>
+<br>
+<br>
+
+-------------------------
+
+# FFTv2
+<img src="https://user-images.githubusercontent.com/71545160/196604714-0900f9a2-d90f-4225-beaa-1277e7ecd3c7.png" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/71545160/196604623-a82c2211-2530-40c7-ad62-bdabc32ac8e0.png" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/71545160/196604650-ad173bc9-a04b-4f18-aaa0-3b08992c3102.png" alt="drawing" width="300"/>
+
+
 
